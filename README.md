@@ -1,3 +1,7 @@
+
+[Splunk Log Analysis & WordPress Attack.pdf](https://github.com/user-attachments/files/20259466/Splunk.Log.Analysis.WordPress.Attack.pdf)
+
+
 # Splunk Log Analysis & WordPress Attack Simulation
 
 This project demonstrates the deployment of WordPress on Ubuntu Server and the integration of Splunk for log monitoring and threat detection. It includes a simulation of a brute-force attack using WPScan and log analysis using Splunk dashboards.
